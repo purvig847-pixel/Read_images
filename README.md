@@ -42,4 +42,5 @@ python main.py
 
 ## Author
 
-Your Name
+Purvi
+
